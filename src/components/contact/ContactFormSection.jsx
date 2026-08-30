@@ -108,7 +108,7 @@ export default function ContactFormSection() {
           <OfficeRow
             icon={<Phone className="h-4 w-4" />}
             title="Phone"
-            detail="+92 341 0632835 / +92 347 6559301"
+            detail="+92 341 0632835"
           />
           <OfficeRow
             icon={<Mail className="h-4 w-4" />}
