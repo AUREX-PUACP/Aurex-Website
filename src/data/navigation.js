@@ -43,7 +43,7 @@ export const SOCIAL_LINKS = [
 
 export const CONTACT_INFO = {
   email: 'aurex.puacp.official@gmail.com',
-  phones: ['+92 341 0632835', '+92 347 6559301'],
+  phones: ['+92 341 0632835'],
   address: ['Islamabad,', 'Pakistan'],
 };
 
